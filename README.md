@@ -32,7 +32,7 @@ My analytical and business skills are needed to provide clarity in the following
 
 ## Folder Structure
 
-- `/Data`: Contains raw-data and clean-data.
+- `/Data`: Contains raw-data clean-data and quality data.
 - `/Documentation`: Contains Notes and slides.
 - `/Scripts`: Contains:
   - `/data-cleaning: orders, orderlines and products data_cleaning_with_pandas_`
