@@ -35,9 +35,9 @@ My analytical and business skills are needed to provide clarity in the following
 - `/Data`: Contains raw-data and clean-data.
 - `/Documentation`: Contains Notes and slides.
 - `/Scripts`: Contains:
-  - `/data-cleaning`
-  - `/data-quality`
-  - `/analysis`
+  - `/data-cleaning: orders, orderlines and products data_cleaning_with_pandas_`
+  - `/data-quality: quality_assessment_sample`
+  - `/analysis:Analisis _Seaborn Eniac_Project `
 
 
 ## Analysis Summary
