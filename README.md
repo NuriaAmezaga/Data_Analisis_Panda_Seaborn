@@ -75,6 +75,9 @@ This analysis sets the foundation for optimizing Eniac's discounting strategy, w
 - Aggressive discounts do not increase the popularity of the product.
 - Seasonal sales, especially those in November, have a strong impact on the yearly revenue.
 
+  ![image](https://github.com/NuriaAmezaga/Data_Analisis_Panda_Seaborn/assets/168557674/28e50057-b7f3-4a50-9042-23dcd16284b2)
+
+
 ### Issues Faced
 
 - **Data Corruption**: The dataset had issues such as corrupted data, missing values, and double dots in numbers.
